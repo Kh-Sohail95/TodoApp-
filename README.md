@@ -20,6 +20,9 @@ npm install
 # Run on Android
 npx react-native run-android
 
+# Run on iOS
+npx react-native run-ios
+
 ## 👨‍💻 Developer
 Khawaja Sohail Shafique
 React Native Developer | JavaScript | Firebase
