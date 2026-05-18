@@ -1,7 +1,26 @@
-## Todo App
-A simple Todo App built with React Native and AsyncStorage.
+# Todo App 📝
 
-## Features
-- Add todos
+A simple Todo App built with React Native.
+
+## ✨ Features
+- Add new todos
 - Delete todos
-- Data saved locally with AsyncStorage
+
+
+## 🛠️ Tech Stack
+- React Native
+- JavaScript
+- AsyncStorage
+
+## 🚀 Installation
+
+# Install dependencies
+npm install
+
+# Run on Android
+npx react-native run-android
+
+## 👨‍💻 Developer
+Khawaja Sohail Shafique
+React Native Developer | JavaScript | Firebase
+GitHub: https://github.com/Kh-Sohail95
